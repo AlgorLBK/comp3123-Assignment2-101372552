@@ -1,0 +1,26 @@
+div {
+    display: flex;
+    flex-direction: column;
+    margin: auto auto;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300%;
+}
+label {
+    font-size: 20px;
+    
+}
+input, select, option {
+    height: 25px;
+    margin-bottom: 15px;
+    width: 100%;
+}
+button {
+    height: 25px;
+    margin-bottom: 15px;
+    width: 50%;
+}
